@@ -1,0 +1,28 @@
+body{
+font-family: "Times New Roman", sans-serif;
+background-color: #f5f5dc;
+}
+
+button{
+    background-color:white;
+    color:black;
+}
+
+p{text-indent: 30px;
+}
+
+a{
+text-decoration: none;
+}
+
+.header,
+#recipe-header{
+    color: black;
+    text-align: center;
+}
+
+.picture{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
